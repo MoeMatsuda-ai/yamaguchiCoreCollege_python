@@ -32,27 +32,27 @@
 ### 課題4
 - 〆切：05/08 授業開始まで
 - 課題4.1
-    - ファイル名：prob41_<your name>.py
+    - ファイル名：prob41_<your_name>.py
     - スクリプトファイルで提出
 - 課題4.2
-    - ファイル名：<your name>_prob4.ipynb
+    - ファイル名：<your_name>_prob4.ipynb
     - ノートブック（Jupyter Notebook用のファイル）で提出
     - 最初のセルはMarkdownセルとし、自分の氏名と出席番号を記述すること
 - 課題4.3
-    - ファイル名：prob43_<your name>.py
+    - ファイル名：prob43_<your_name>.py
     - スクリプトファイルで提出すること
 
 ### 課題5
 - 〆切: 05/15 授業開始まで
 - 課題4.4
-    - ファイル名: prob44_<your name>.py
+    - ファイル名: prob44_<your_name>.py
     - スクリプトファイルで提出のこと
 
 ### 課題6
 - 〆切：05/22 授業開始まで
 - 課題4.5
-    - ファイル名: prob45_<your name>.py
+    - ファイル名: prob45_<your_name>.py
     - スクリプトファイルで提出
 - 課題4.6
-    - ファイル名: prob46_<your name>.py
+    - ファイル名: prob46_<your_name>.py
     - スクリプトファイルで提出
